@@ -1,0 +1,23 @@
+{
+  "family": "uutan",
+  "name": "kozhen",
+  "version": "1.0.0",
+  "description": "this is module.",
+  "homepage": "https://github.com/uutan/kozhen",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uutan/kozhen.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["kozhen.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
